@@ -2,7 +2,7 @@
 
 ![Chat App ](./frontend/public/demo-img.png)
 
-Welcome to the **Real-Time Chat App**, a modern, full-stack chat application featuring the MERN stack, real-time communication, and a clean, responsive UI built with Tailwind CSS. This project demonstrates key aspects of real-time messaging, authentication, and user [experience optimization](http://-live-chat-link.com)
+Welcome to the **Real-Time Chat App**, a modern, full-stack chat application featuring the MERN stack, real-time communication, and a clean, responsive UI built with Tailwind CSS. This project demonstrates key aspects of real-time messaging, authentication, and user [experience optimization](https://vasu-chat-app.onrender.comm)
 
 ## ✨ Key Features
 
